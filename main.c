@@ -1,5 +1,4 @@
-// main.c : Definiert den Einstiegspunkt f�r die Konsolenanwendung.
-//
+
 
 #include "stdio.h"
 
