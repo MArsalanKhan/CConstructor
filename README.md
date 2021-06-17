@@ -1,3 +1,3 @@
 
-Function Pointer, Constructor & Destructor, STL Container
+Function Pointer, Constructor & Destructor, Copy constructor, STL Container.
 
