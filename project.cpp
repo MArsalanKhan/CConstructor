@@ -26,7 +26,7 @@ void test_vector()
 	}
 	//Until here, nothing spectacular - behaves like an array....
 	
-	// Now lets do it properly
+	
 
 	vector<int> vc; // Declare a vector. Note: we do not have to know the size at this time! 
 	
